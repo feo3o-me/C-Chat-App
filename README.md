@@ -1,2 +1,2 @@
-# C---Chat-App
+# C-Chat-App
 Socket Programming Practice
